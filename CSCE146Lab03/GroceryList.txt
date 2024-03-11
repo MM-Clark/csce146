@@ -1,0 +1,27 @@
+Apples	4.42
+Bananas	1.51
+Strawberries	2.51
+Bell Peppers	0.98
+Carrots	3.52
+Broccoli	2.04
+Garlic	6.12
+Lemons/Limes	0.32
+Onion	5.74
+Parsley	2.16
+Cilantro	3.11
+Basil	6.98
+Potatoes	5.32
+Spinach	4.11
+Tomatoes	7.38
+Butter	5.51
+Sliced Cheese	1.26
+Shredded Cheese	3.63
+Milk	4.67
+Sour Cream	0.74
+Greek Yogurt	7.21
+Breadcrumbs	4.93
+Pasta	1.49
+Quinoa	4.78
+Rice	6.96
+Sandwich Bread	1.22
+Tortillas	4.17

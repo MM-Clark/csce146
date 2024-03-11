@@ -1,0 +1,8 @@
+Right Triangle	2.0	2.0
+Right Triangle	3.0	2.0
+Rectangle	2.0	7.0
+Right Triangle	5.0	6.0
+Rectangle	9.0	2.0
+Rectangle	5.0	4.0
+Rectangle	3.0	8.0
+Rectangle	5.0	5.0
